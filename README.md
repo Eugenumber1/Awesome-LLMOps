@@ -212,6 +212,8 @@ Contributions are most welcome, please adhere to the [contribution guidelines](c
 | [Wordware](https://www.wordware.ai) | A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks. | |
 | [xTuring](https://github.com/stochasticai/xturing) | Build and control your personal LLMs with fast and efficient fine-tuning. | ![GitHub Badge](https://img.shields.io/github/stars/stochasticai/xturing.svg?style=flat-square) |
 | [ZenML](https://github.com/zenml-io/zenml) | Open-source framework for orchestrating, experimenting and deploying production-grade ML solutions, with built-in `langchain` & `llama_index` integrations. | ![GitHub Badge](https://img.shields.io/github/stars/zenml-io/zenml.svg?style=flat-square) |
+| [LangWatch](https://github.com/langwatch/langwatch) | Build AI solutions with quality, confidence, and safety | ![GitHub Badge](https://img.shields.io/github/stars/langwatch/langwatch.svg?style=flat-square) |
+
 
 **[⬆ back to ToC](#table-of-contents)**
 
